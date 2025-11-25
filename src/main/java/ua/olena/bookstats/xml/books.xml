@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J.K. Rowling</author>
+        <yearPublished>1997</yearPublished>
+        <genre>Fantasy</genre>
+    </book>
+
+    <book>
+        <title>The Witcher: The Last Wish</title>
+        <author>Andrzej Sapkowski</author>
+        <yearPublished>1993</yearPublished>
+        <genre>Fantasy</genre>
+    </book>
+
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <yearPublished>1960</yearPublished>
+        <genre>Classic</genre>
+    </book>
+
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <yearPublished>1925</yearPublished>
+        <genre>Classic</genre>
+    </book>
+
+    <book>
+        <title>Dune</title>
+        <author>Frank Herbert</author>
+        <yearPublished>1965</yearPublished>
+        <genre>Science Fiction</genre>
+    </book>
+
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <yearPublished>1949</yearPublished>
+        <genre>Dystopian, Political Fiction</genre>
+    </book>
+
+    <book>
+        <title>Dracula</title>
+        <author>Bram Stoker</author>
+        <yearPublished>1897</yearPublished>
+        <genre>Horror, Gothic</genre>
+    </book>
+
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <yearPublished>1937</yearPublished>
+        <genre>Fantasy, Adventure</genre>
+    </book>
+
+</books>

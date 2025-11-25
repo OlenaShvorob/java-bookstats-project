@@ -1,11 +1,27 @@
 package ua.olena.bookstats.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+/**
+ * Модель книги, що відповідає JSON-структурі:
+ * {
+ *   "title": "...",
+ *   "author": "...",
+ *   "year_published": 1997,
+ *   "genre": "..."
+ * }
+ */
 public class Book {
+
     private String title;
     private String author;
+
+    @JsonProperty("year_published")
     private int yearPublished;
+
     private String genre;
 
+    // Порожній конструктор потрібен для Jackson
     public Book() {
     }
 

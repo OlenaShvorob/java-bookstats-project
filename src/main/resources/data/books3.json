@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year_published": 1813,
+    "genre": "Romance, Classic"
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "year_published": 1597,
+    "genre": "Romance, Tragedy"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year_published": 1925,
+    "genre": "Classic"
+  }
+]

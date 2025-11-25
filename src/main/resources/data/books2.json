@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "year_published": 1997,
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year_published": 1965,
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "year_published": 1897,
+    "genre": "Horror, Gothic"
+  }
+]
